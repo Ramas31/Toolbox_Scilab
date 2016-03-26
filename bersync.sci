@@ -1,8 +1,6 @@
 //Implementation of Matlab function bersync() in scilab
 //
 //Name: Rama Shanbhag
-//Branch: Information Technology
-//Year: 2nd Year
 //Institute: National Institute of Technology Karnataka Surathkal
 //Email: ramashanbhag31@gmail.com
 //
